@@ -13,5 +13,5 @@
 \Get pdf page width and height with pdf to html sdk
 \Merge pdf with pdf extractor sdk
 \Split pdf with pdf extractor sdk
-\Create side by side manifest\UMMM-master
-\Create side by side manifest\UMMM-master\Src
+\Create side by side manifest\Create side by side manfiest
+\Create side by side manifest\Create side by side manfiest\Src
